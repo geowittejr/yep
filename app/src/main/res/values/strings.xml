@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yep</string>
+
+    <string name="summary_empty">Add something you tend to double-check.</string>
+    <string name="summary_none">Press and hold a card until it fills to confirm.</string>
+    <string name="summary_some">%1$d of %2$d confirmed in the last 12 hours.</string>
+
+    <string name="never_confirmed">Not confirmed yet</string>
+    <string name="last_prefix">Last: %1$s</string>
+    <string name="hold_badge">HOLD</string>
+    <string name="keep_holding">Keep holding until it fills…</string>
+    <string name="card_description">%1$s. %2$s. Tap for history.</string>
+    <string name="a11y_confirm">Confirm</string>
+
+    <string name="banner_confirmed">%1$s %2$s · %3$s</string>
+    <string name="undo">Undo</string>
+
+    <string name="add_check">+ Add a check</string>
+    <string name="add_title">New check</string>
+    <string name="add_hint">e.g. Garage door closed</string>
+    <string name="add_pick_icon">Pick an icon</string>
+    <string name="add">Add</string>
+    <string name="tip">Tip: hold a card right when you lock up or switch off. Later, a glance here tells you exactly when you did it. Tap a card to see its history.</string>
+
+    <string name="back">‹ Back</string>
+    <string name="history_never">No confirmations yet.</string>
+    <plurals name="history_count">
+        <item quantity="one">Confirmed %1$d time · last %2$s</item>
+        <item quantity="other">Confirmed %1$d times · last %2$s</item>
+    </plurals>
+    <string name="history_how">To confirm, go back and press and hold this card.</string>
+    <string name="history_empty">Nothing recorded yet.</string>
+    <string name="history_title">History</string>
+    <string name="rename">Rename</string>
+    <string name="save">Save</string>
+    <string name="clear">Clear</string>
+    <string name="clear_history">Clear history</string>
+    <string name="clear_history_title">Clear history?</string>
+    <string name="clear_history_message">This removes every recorded confirmation for this check.</string>
+    <string name="delete">Delete</string>
+    <string name="delete_check">Delete check</string>
+    <string name="delete_title">Delete “%1$s”?</string>
+    <string name="delete_message">The check and its history will be removed from this phone.</string>
+</resources>
